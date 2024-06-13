@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798827791843",
+    "project_id": "medical-app-raman-sss",
+    "storage_bucket": "medical-app-raman-sss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798827791843:android:284096225b083fadab4cd6",
+        "android_client_info": {
+          "package_name": "com.example.medical_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mRV_hiyjTWKLHOVh8dwRf2vbQO4K9Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
